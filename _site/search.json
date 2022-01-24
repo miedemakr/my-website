@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "who am i",
+      "author": [],
+      "contents": "\r\nHello! My name is Kyle Miedema, and I appreciate you looking at my site. I am currently a student at Grand Valley State University pursing an M.S. in Data Science and Analytics. My main goal is to graduate and move into industry with an emphasis on anything machine learning. I am also a Data Analytics Intern at Spectrum Health, focusing on data cleaning and improving processes. In my free time I enjoy reading, programming in R, and spending time with my dog Theo (who you may have noticed on the home page).\r\nFeel free to get in touch with me using any of the links below!\r\nContact\r\n\r\n\r\n   \r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-23T22:19:03-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          kyle miedema\r\n          \r\n          \r\n          about\r\n          portfolio\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              \r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            Hello, my name is Kyle Miedema. I am a student at Grand Valley State University currently pursuing an M.S. in Data Science and Analytics.\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              \r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              Hello, my name is Kyle Miedema. I am a student at Grand Valley State University currently pursuing an M.S. in Data Science and Analytics.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-01-23T22:19:03-05:00"
+    },
+    {
+      "path": "portfolio.html",
+      "title": "portfolio",
+      "description": "A collection of my course projects and personal work. \n",
+      "author": [],
+      "contents": "\r\ncourse projects\r\n\r\n\r\n\r\n\r\nAnalysis of Top 50 Players in 2020-2021 NHL Season\r\n\r\n\r\nDashboard created by myself and a partner. I was tasked with \r\n  creating the shell of the dashboard along with the research questions \r\n  tabs and conclusion tabs\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-23T22:19:04-05:00"
+    }
+  ],
+  "collections": []
+}

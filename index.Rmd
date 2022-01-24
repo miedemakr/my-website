@@ -1,0 +1,19 @@
+---
+title: ""
+image: "unnamed.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/miedemakr"
+  - label: GitHub
+    url: "https://github.com/miedemakr"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kyle-miedema-53b37b220/"
+  - label: Email
+    url: "mailto:miedemakr@gmail.com"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+Hello, my name is Kyle Miedema. I am a student at Grand Valley State University
+currently pursuing an M.S. in Data Science and Analytics.

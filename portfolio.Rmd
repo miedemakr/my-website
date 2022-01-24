@@ -1,0 +1,30 @@
+---
+title: "portfolio"
+description: |
+  A collection of my course projects and personal work. 
+output: 
+  distill::distill_article:
+    css: theme.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, include=FALSE}
+library(htmltools)
+source("R/functions.R")
+```
+
+# course projects
+```{r}
+create_proj_card(
+  img_src = "images/hockey.JPG",
+  url = "https://kmiedema.shinyapps.io/project10-steel/",
+  title = "Analysis of Top 50 Players in 2020-2021 NHL Season",
+  text = "Dashboard created by myself and a partner. I was tasked with 
+  creating the shell of the dashboard along with the research questions 
+  tabs and conclusion tabs",
+  text2 = ""
+)
+```

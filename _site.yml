@@ -1,0 +1,22 @@
+name: "my-website"
+title: "kyle miedema"
+description: |
+  Kyle Miedema's personal website
+base_url: 
+output_dir: "_site"
+google_analytics: 
+navbar:
+  search: false
+  right:
+    - text: "about"
+      href: about.html
+    - text: "portfolio"
+      href: portfolio.html
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    share: [twitter, linkedin]
+output: distill::distill_article
+theme: theme.css

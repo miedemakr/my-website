@@ -1,0 +1,22 @@
+---
+title: "who am i"
+output: 
+  distill::distill_article:
+    css: theme.css
+---
+
+Hello! My name is Kyle Miedema, and I appreciate you looking at my site. I am currently a student at Grand Valley State University pursing an M.S. in Data Science and Analytics. My main goal is to graduate and move into industry with an emphasis on anything machine learning. I am also a Data Analytics Intern at Spectrum Health, focusing on data cleaning and improving processes. In my free time I enjoy reading, programming in R, and spending time with my dog Theo (who you may have noticed on the home page).
+
+Feel free to get in touch with me using any of the links below!
+
+### Contact
+
+<div class="mylinks">
+<p style="text-align: center;">
+    <a href="https://github.com/miedemakr" target="_blank" class="fa fa-github"  style="font-size:36px;"></a>
+    <a href="mailto:miedemakr@gmail.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a>
+    <a href="https://www.linkedin.com/in/kyle-miedema-53b37b220/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a>
+    <a href="https://twitter.com/miedemakr" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a>
+</p>
+</div>
+
