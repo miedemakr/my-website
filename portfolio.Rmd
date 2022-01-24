@@ -22,7 +22,7 @@ create_proj_card(
   img_src = "images/hockey.JPG",
   url = "https://kmiedema.shinyapps.io/project10-steel/",
   title = "Analysis of Top 50 Players in 2020-2021 NHL Season",
-  text = "Dashboard created by myself and a partner for a school project. 
+  text = "Dashboard created by myself and a partner. 
   I was tasked with creating the shell of the dashboard along with the 
   research questions tabs and conclusion tabs",
   text2 = ""
