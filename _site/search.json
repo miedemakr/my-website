@@ -19,8 +19,8 @@
       "title": "portfolio",
       "description": "A collection of my course projects and personal work. \n",
       "author": [],
-      "contents": "\r\ncourse projects\r\n\r\n\r\n\r\n\r\nAnalysis of Top 50 Players in 2020-2021 NHL Season\r\n\r\n\r\nDashboard created by myself and a partner. \r\n  I was tasked with creating the shell of the dashboard along with the \r\n  research questions tabs and conclusion tabs.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-10T02:29:22-05:00"
+      "contents": "\r\ncourse projects\r\n\r\n\r\n\r\n\r\nAnalysis of Top 50 Players in 2020-2021 NHL Season\r\n\r\n\r\nDashboard created by myself and a partner. \r\n  I was tasked with creating the shell of the dashboard along with the \r\n  research questions tabs and conclusion tabs.\r\n\r\n\r\n\r\n\r\n\r\n\r\nWeb Scraping PAC Data using R\r\n\r\n\r\nScraped data from OpenSecrets. Then created a function \r\n  to iterate over multiple URL's. Lastly, analyzed the data using \r\n  tables and plots created using the ggplot2 package in R.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-10T21:13:21-05:00"
     }
   ],
   "collections": []

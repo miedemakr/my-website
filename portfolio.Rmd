@@ -27,4 +27,14 @@ create_proj_card(
   research questions tabs and conclusion tabs.",
   text2 = ""
 )
+
+create_proj_card(
+  img_src = "images/vs-1-copy.png",
+  url = "https://github.com/miedemakr/Scraping-PACS",
+  title = "Web Scraping PAC Data using R",
+  text = "Scraped data from OpenSecrets. Then created a function 
+  to iterate over multiple URL's. Lastly, analyzed the data using 
+  tables and plots created using the ggplot2 package in R.",
+  text2 = ""
+)
 ```
